@@ -14,45 +14,45 @@ const CONFIG = {
   dossiers: [
     {
       id: "001",
-      title: "De uitnodiging",
+      title: "De locatie",
       teaser: "Er staat iets in je agenda. Je weet alleen nog niet wat.",
-      content: "Welkom bij Halloween Unlocked.\\n\\nJe bent onderdeel van het dossier. Houd deze pagina in de gaten en let op de tijd. De eerste aanwijzing is dichterbij dan je denkt.\\n\\nHoe lang kan deze tekst eigenlijk zijn?\\nEn wat gebeurt er dan met de opmaak?",
-      revealAt: "2026-10-17T18:30:00"
+      content: "Welkom bij Halloween Unlocked.\\n\\nVandaag begint ons Hallo-weekend. Heb je er zin in? Wij ook! Inloop is vanaf 17.00u. Navigeer naar B&B Tremele, aan de Rooijsestraat 57 in Dreumel. Be there or be squash!",
+      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar "2026-10-30T07:00:00"
     },
     {
       id: "002",
-      title: "De locatie",
-      teaser: "Een plek die voor even van ons is…",
-      content: "VUL HIER DE LOCATIE IN.\\n\\nTip: voeg eventueel adres, routebeschrijving of wat mee te nemen toe.",
-      revealAt: "2026-10-30T18:00:00"
+      title: "Klaar voor de start...",
+      teaser: "Pump-kin up the fun",
+      content: "Avondeten wordt geserveerd rond 19.00u. De avond-activiteit blijft nog even geheim. het is zeker geen quiz.",
+      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-30T17:00:00"
     },
     {
       id: "003",
-      title: "Dresscode",
+      title: "Zaterdag",
       teaser: "Kom voorbereid. Gewoon komen is verdacht.",
-      content: "VUL HIER DE DRESSCODE IN.\\n\\nDenk aan kostuums, kleuren, accessoires of een grappige opdracht.",
-      revealAt: "2026-10-30T19:00:00"
+      content: "Sta om 9.00u klaar voor het ontbijt.\\n\\n.Verkleedkleren zijn optioneel voor overdag",
+      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-30T20:00:00"
     },
     {
       id: "004",
-      title: "De eerste opdracht",
-      teaser: "Je avond begint niet zonder een kleine beproeving.",
-      content: "VUL HIER DE EERSTE OPDRACHT IN.",
-      revealAt: "2026-10-31T10:00:00"
+      title: "Wie heeft Nina vermoord?",
+      teaser: "De avond begint niet zonder een kleine beproeving.",
+      content: "Ik verdenk de zwarte huiskat. Trek je engste outfit aan voor het moorddiner",
+      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-31T16:00:00"
     },
     {
       id: "005",
       title: "Het geheim",
       teaser: "Sommige plannen kun je beter niet hardop zeggen.",
-      content: "VUL HIER EEN VERRASSING, ACTIVITEIT OF HINT IN.",
-      revealAt: "2026-10-31T15:00:00"
+      content: "We ontbijten om 9.00u. Zorg dat je om 10.30u klaarstaat om uit te checken en te vertrekken naar onze sport-activiteit",
+      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-31T20:00:00"
     },
     {
       id: "006",
       title: "De finale",
       teaser: "Alles leidt naar dit moment.",
-      content: "VUL HIER DE FINALE OF LAATSTE ONTHULLING IN.\\n\\nBedankt voor het meespelen. Fijne Halloween!",
-      revealAt: "2026-11-01T10:00:00"
+      content: "Navigeer naar Dorpsplein 40 in Beneden-Leeuwen. Bedankt voor de gezelligheid! <3",
+      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-11-01T10:00:00"
     }
   ]
 };
