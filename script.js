@@ -16,7 +16,7 @@ const CONFIG = {
       id: "001",
       title: "De locatie",
       teaser: "Er staat iets in je agenda. Je weet alleen nog niet wat.",
-      content: "Welkom bij Halloween Unlocked.\\n\\nVandaag begint ons Hallo-weekend. Heb je er zin in? Wij ook! Inloop is vanaf 17.00u. Navigeer naar B&B Tremele, aan de Rooijsestraat 57 in Dreumel. Be there or be squash!",
+      content: "Vandaag begint ons Hallo-weekend. Heb je er zin in? Wij ook! Inloop is vanaf 17.00u. Navigeer naar B&B Tremele, aan de Rooijsestraat 57 in Dreumel of vraag in de groepsapp om een lift vanaf station Zaltbommel, Tiel of Geldermalsen. Be there or be squash!",
       revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar "2026-10-30T07:00:00"
     },
     {
@@ -42,7 +42,7 @@ const CONFIG = {
     },
     {
       id: "005",
-      title: "Het geheim",
+      title: "Zondag",
       teaser: "Sommige plannen kun je beter niet hardop zeggen.",
       content: "We ontbijten om 9.00u. Zorg dat je om 10.30u klaarstaat om uit te checken en te vertrekken naar onze sport-activiteit",
       revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-31T20:00:00"
