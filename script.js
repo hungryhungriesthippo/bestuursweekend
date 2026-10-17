@@ -16,7 +16,7 @@ const CONFIG = {
       id: "001",
       title: "De uitnodiging",
       teaser: "Er staat iets in je agenda. Je weet alleen nog niet wat.",
-      content: "Welkom bij Halloween Unlocked.\\n\\nJe bent onderdeel van het dossier. Houd deze pagina in de gaten en let op de tijd. De eerste aanwijzing is dichterbij dan je denkt.",
+      content: "Welkom bij Halloween Unlocked.\\n\\nJe bent onderdeel van het dossier. Houd deze pagina in de gaten en let op de tijd. De eerste aanwijzing is dichterbij dan je denkt.\\n\\nHoe lang kan deze tekst eigenlijk zijn?\\nEn wat gebeurt er dan met de opmaak?",
       revealAt: "2026-10-17T18:30:00"
     },
     {
