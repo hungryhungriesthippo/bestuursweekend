@@ -54,6 +54,27 @@ const CONFIG = {
       content: "VUL HIER DE FINALE OF LAATSTE ONTHULLING IN.\\n\\nBedankt voor het meespelen. Fijne Halloween!",
       revealAt: "2026-11-01T10:00:00"
     }
+        {
+      id: "007",
+      title: "De eerste opdracht",
+      teaser: "Je avond begint niet zonder een kleine beproeving.",
+      content: "VUL HIER DE EERSTE OPDRACHT IN.",
+      revealAt: "2026-10-31T10:00:00"
+    },
+    {
+      id: "008",
+      title: "Het geheim",
+      teaser: "Sommige plannen kun je beter niet hardop zeggen.",
+      content: "VUL HIER EEN VERRASSING, ACTIVITEIT OF HINT IN.",
+      revealAt: "2026-10-31T15:00:00"
+    },
+    {
+      id: "009",
+      title: "De finale",
+      teaser: "Alles leidt naar dit moment.",
+      content: "VUL HIER DE FINALE OF LAATSTE ONTHULLING IN.\\n\\nBedankt voor het meespelen. Fijne Halloween!",
+      revealAt: "2026-11-01T10:00:00"
+    }
   ]
 };
 
