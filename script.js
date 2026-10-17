@@ -16,42 +16,42 @@ const CONFIG = {
       id: "001",
       title: "De locatie",
       teaser: "Er staat iets in je agenda. Je weet alleen nog niet wat.",
-      content: "Vandaag begint ons Hallo-weekend. Heb je er zin in? Wij ook! Inloop is vanaf 17.00u. Navigeer naar B&B Tremele, aan de Rooijsestraat 57 in Dreumel of vraag in de groepsapp om een lift vanaf station Zaltbommel, Tiel of Geldermalsen. Be there or be squash!",
+      content: "Vandaag begint ons Hallo-weekend.\\n\\n Inloop is vanaf 17.00u. Navigeer naar B&B Tremele, aan de Rooijsestraat 57 in Dreumel of vraag in de groepsapp om een lift vanaf station Zaltbommel, Tiel of Geldermalsen.\\n\\n Be there or be squash!",
       revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar "2026-10-30T07:00:00"
     },
     {
       id: "002",
       title: "Klaar voor de start...",
       teaser: "Pump-kin up the fun",
-      content: "Avondeten wordt geserveerd rond 19.00u. De avond-activiteit blijft nog even geheim. het is zeker geen quiz.",
+      content: "Fijn dat je er bent!\\n\\nAvondeten wordt geserveerd rond 19.00u.\\n\\nDe avond-activiteit blijft nog even geheim. het is zeker geen quiz",
       revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-30T17:00:00"
     },
     {
       id: "003",
       title: "Zaterdag",
       teaser: "Kom voorbereid. Gewoon komen is verdacht.",
-      content: "Sta om 9.00u klaar voor het ontbijt.\\n\\n.Verkleedkleren zijn optioneel voor overdag",
+      content: "Welterusten!\\n\\nSta om 9.00u klaar voor het ontbijt en het aansluitende programma.\\n\\nVerkleedkleren zijn optioneel (maar aangemoedigd!) voor het dagprogramma",
       revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-30T20:00:00"
     },
     {
       id: "004",
       title: "Wie heeft Nina vermoord?",
       teaser: "De avond begint niet zonder een kleine beproeving.",
-      content: "Ik verdenk de zwarte huiskat. Trek je engste outfit aan voor het moorddiner",
+      content: "Ik verdenk de zwarte huiskat.\\n\\nTrek je engste outfit aan voor het moorddiner en zorg dat je persoonlijke boevendetectiemachine - ook wel bekend als telefoon - opgeladen is. We starten rond 18.00u",
       revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-31T16:00:00"
     },
     {
       id: "005",
       title: "Zondag",
       teaser: "Sommige plannen kun je beter niet hardop zeggen.",
-      content: "We ontbijten om 9.00u. Zorg dat je om 10.30u klaarstaat om uit te checken en te vertrekken naar onze sport-activiteit",
+      content: "Welterusten!\\n\\nWe ontbijten om 9.00u. Daarna hebben we nog tijd om op te ruimen en in te pakken.\\n\\nZorg dat je om 10.30u klaarstaat om uit te checken en te vertrekken naar onze sport-activiteit",
       revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-31T20:00:00"
     },
     {
       id: "006",
       title: "De finale",
       teaser: "Alles leidt naar dit moment.",
-      content: "Navigeer naar Dorpsplein 40 in Beneden-Leeuwen. Bedankt voor de gezelligheid! <3",
+      content: "Het is bijna tijd voor de laatste etappe van deze gezamenlijke reis.\\n\\nNavigeer naar Dorpsplein 40 in Beneden-Leeuwen.\\n\\nBedankt voor de gezelligheid! <3",
       revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-11-01T10:00:00"
     }
   ]
