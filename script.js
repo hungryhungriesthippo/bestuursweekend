@@ -9,7 +9,7 @@
 
 const CONFIG = {
   // De aftelklok telt naar de eerste onthulling. Pas dit aan indien nodig.
-  firstReveal: "2026-10-30T17:00:00",
+  firstReveal: "2026-10-30T07:00:00",
   timezone: "Europe/Amsterdam",
   dossiers: [
     {
@@ -17,42 +17,42 @@ const CONFIG = {
       title: "De locatie",
       teaser: "Er staat iets in je agenda. Je weet alleen nog niet wat.",
       content: "Vandaag begint ons Hallo-weekend. Inloop is vanaf 17.00u.\\n\\nNavigeer naar B&B Tremele, aan de Rooijsestraat 57 in Dreumel of vraag in de groepsapp om een lift vanaf station Zaltbommel, Tiel of Geldermalsen.\\n\\n Be there or be squash!",
-      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar "2026-10-30T07:00:00"
+      revealAt: "2026-10-30T07:00:00"
     },
     {
       id: "002",
       title: "Klaar voor de start...",
       teaser: "Pump-kin up the fun",
       content: "Fijn dat je er bent! We zijn klaar voor een spooktastisch weekend.\\n\\nAvondeten wordt geserveerd rond 19.00u.\\n\\nDe avond-activiteit blijft nog even geheim. Ik zwijg als het graf. Het is zeker geen quiz! Oeps",
-      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-30T17:00:00"
+      revealAt: "2026-10-30T17:00:00"
     },
     {
       id: "003",
       title: "Zaterdag",
       teaser: "Kom voorbereid. Gewoon komen is verdacht.",
       content: "Happy Halloweener!\\n\\nSta om 9.00u klaar voor het ontbijt en het aansluitende programma.\\n\\nVerkleedkleren zijn optioneel (maar aangemoedigd!) voor het overdagprogramma",
-      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-30T20:00:00"
+      revealAt: "2026-10-30T20:00:00"
     },
     {
       id: "004",
       title: "Wie heeft Nina vermoord?",
       teaser: "De avond begint niet zonder een kleine beproeving.",
       content: "Ik verdenk de zwarte huiskat.\\n\\nTrek je engste outfit aan voor het moorddiner en zorg dat je persoonlijke mysteriemachine (ook wel bekend als telefoon) opgeladen is. We starten rond 18.00u",
-      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-31T16:00:00"
+      revealAt: "2026-10-31T16:00:00"
     },
     {
       id: "005",
       title: "Zondag",
       teaser: "Sommige plannen kun je beter niet hardop zeggen.",
       content: "Onze laatste dag breekt aan.\\n\\nWe ontbijten om 9.00u. Daarna hebben we nog tijd om op te ruimen en in te pakken.\\n\\nZorg dat je om 10.30u klaarstaat om uit te checken en te vertrekken naar onze sport-activiteit",
-      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-10-31T20:00:00"
+      revealAt: "2026-10-31T20:00:00"
     },
     {
       id: "006",
       title: "De finale",
       teaser: "Alles leidt naar dit moment.",
       content: "Het is bijna tijd voor de laatste etappe van deze gezamenlijke reis.\\n\\nNavigeer naar Dorpsplein 40 in Beneden-Leeuwen.\\n\\nBedankt voor de gezelligheid! <3",
-      revealAt: "2026-10-17T18:00:00" //Tijd aanpassen naar"2026-11-01T10:00:00"
+      revealAt: "2026-11-01T10:00:00"
     }
   ]
 };
