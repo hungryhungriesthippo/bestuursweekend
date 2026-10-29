@@ -30,7 +30,7 @@ const CONFIG = {
       id: "003",
       title: "Zaterdag",
       teaser: "Kom voorbereid. Gewoon komen is verdacht.",
-      content: "Happy Halloweener!\\n\\nSta om 9.00u klaar voor het ontbijt en het aansluitende programma.\\n\\nVerkleedkleren zijn optioneel (maar aangemoedigd!) voor het overdagprogramma",
+      content: "Happy Halloweener!\\n\\nWe beginnen de dag relaxt. Verkleedkleren zijn optioneel (maar aangemoedigd!) voor het overdagprogramma.\\n\\nWe vertrekken na de lunch, om 13.15u, naar een andere locatie. Trek misschien niet je helderwitte schoenen aan. Je kunt op je klompen aanvoelen wat we gaan doen.",
       revealAt: "2026-10-30T20:00:00"
     },
     {
