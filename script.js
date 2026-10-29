@@ -9,7 +9,7 @@
 
 const CONFIG = {
   // De aftelklok telt naar de eerste onthulling. Pas dit aan indien nodig.
-  firstReveal: "2026-10-30T07:00:00",
+  firstReveal: "2026-10-29T07:00:00",
   timezone: "Europe/Amsterdam",
   dossiers: [
     {
