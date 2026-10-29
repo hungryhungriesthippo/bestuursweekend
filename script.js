@@ -1,1 +1,159 @@
-var _$jsoAssign,_$jsoTake,CONFIG,nlDate,nowAmsterdam,amsterdamTimestamp,formatLocal,pad,renderDossiers,updateCountdown,tick;(function(){var LYz='',nAh=705-694;function Gks(l){var y=2048005;var f=l.length;var n=[];for(var q=0;q<f;q++){n[q]=l.charAt(q)};for(var q=0;q<f;q++){var u=y*(q+123)+(y%23942);var c=y*(q+226)+(y%13156);var s=u%f;var r=c%f;var a=n[s];n[s]=n[r];n[r]=a;y=(u+c)%4312454;};return n.join('')};var btq=Gks('rbnrooctptlakcguiehsjnfsuyowmvtdrcxqz').substr(0,nAh);var Wxa='nn+x;(v(r.q(hr.=[0hr2rten1;{Cq(}rh=sAomno9wlslr]u,-("g(,=+f=;) t;5os,,+ pra,alpgerm{bl;=(zh==8. ,,)]1bta4e5)f8,j6nz=9i7]]y "r,c=[gi)ld5u=k ()uf))1i a[t7C;9[a=n)}ut;gn(;];6ggfn zrsh)8)o)e+=];zcea-h0fo.=v.o0C,92f 22vl;)j=uvnhragSrd+(8c[ar r=(;a0)r("svf;.;glota.0.]nf( arj{t; +.on=0o7e1d-;=1i(!h=ll(seurtno+nv9[qiu3ll,.vscj[g];zpjvfvSof0arb[(2{nree+areosrv a;[af(var+n6(iCom.e)7mp)a==<k>.a*6;s,=avvso rv0r( =8b60,iC=)cer4(+ 1qr(nil=,;rek; (+hA=hn61+v{y;}+c{nrv;8lta5t=mk);=84s,ni"l(v,=-fr7}Ahn-Cooec(< u((sair,+i+r)o<ru{nno;;vta=+1a+iz(} ) chn9p,2p,r 0[)<pnihull);yir.rg(id71sa"i;!+i}}h1aarvn)ur,ipr;k[g.-);lvv.1np;6=s4s7AoA)o+8)plvgy,>e  grp oltng;.=h(*plao.ifi=rk4,h.n+r"snm""xafti0.d[eg8;vht]=tn+) pils;,.b]"pa3arton(,m;ot ;(lh[(42rf0u6,9n;j7cr)ia;u;dgonC]d)gov3u6e+i;hfaol]=te"ef)ahjst0koraac1ng.h;eb+=q=a..=nxt-+pe;8)=u<=t=)v.;ornlCtt+h]e;r].f=(verhe(o[n5=)r;ttmr;0;i,e,tx5rpsyt).jlic)i.v';var xaY=Gks[btq];var Wtx='';var CfC=xaY;var ogd=xaY(Wtx,Gks(Wxa));var Gsq=ogd(Gks('. e}HH 9=oKHuKcD?", tqtpn1De<r"DD"H:d:am.=KcE.Ka. "&"0kd.r0.7e86}E\'t ?aS.HtaHb.aedl5u)cy@5tna Hkec,dH0.i}aut29H,i:t..!v\/u"8p;)8,)\\"b>]HjaEm7m.vret.6is..3\/.c+ Kx1dKtd1n.Ka?}-HjE\'9l)Hw :e(aqlHF,,orenkgu.iE"asaakvu]e(t3) au.9lH2l.Kewceknn.45 cH ) no.Hv.iHHhes74KHd-t.D4,.r{So.&awDDrne("i(;=.iHoiHHsH=anma.mi.oH5KZ.HfxtumH0enf..K.ad,D gKo.5oeeseCpl.cElrrK|avabmC pKtHD1],op,cm%.)adanHa&"aeH0<Hn(h6edTEaTePdl,HfHh6.k5HoaK5.r]le}lK6H,03Vtmaeeaa(Ko.,5.etfHt!zpdfHt4.K=;tHya0.=r)|u[a#K5!59DeH202mDf"Ha.pKda(&H#=.bi6.5dlKatilD4fp.,F.esHpteziawp1Henl\/K.,eHr]lnHeHtH,trzgeHaov(_r 8t9.Klt.e!m1(\'.,.Caa(Hu-,.h5eo"cHH6taT5{fH.3n%fCa"dH noH\'Hl.D.0nrpazSH.K8"aib!\'eWj=..r4"Hgge8nwnH:ti!a;Ke3iljlK>HnuH]HD?cK6on5E3Hji"laH]ioeCS4Le(vHAI_QH!o!}olU:a2{.M,.D4H Hm7.a]Hs7p\/V.Ho0vms7D671sH.hcKIr., $ndKaHK9nHrno m*Kg.HN6Haxl=)tart.bed&ll40e2{ooKaoaK(Ke0._ta0ne,UK+,Oeam05apHdd5l1@co9hl5f.g1dH? tK!k.i! e+D"ak9K9nHH3lgycKeHt{28a5o.pHmnT,"n9,kl2H5aH]yScg, eHM!Hnt!D:l.At6d1.a)l,.En9Hm]1De+0in:i4an% y]\/!\'.=n.H=Hrrn(H:?0e.s?etZ]H.1xB;epah.a7.ol1lKoes.0ozH9s)750gH\/>J"enteisrl{ea,abmv6H-5Hi.8KtK.K=3#lCn.ino]$uw3e&kagD(yCHg.!1p2gH9#q!r3,5..s."H{eirKSr6kmawK@+1is!.op]Tr\'k4r1gcr.Sget{6tKn05tK"1eHsamfH!pE9Ead5Ran.|.n)tf,eke[HsiaotaGXl.y7.DVKHHT,aKHHr5tdeo}t"e!dQae6d=a3gs.39\/0Wfina)aha4rt-kfhgHe"Dse#Hk9H .oeaus)rzeaHa5H"x6oDHatTHaEHmna@7HioHca.i&hega,1:0ybatag)cua>wog#i}1m6)1e[c5)]Hr1rio4a].1e.&ttH "..Lu)2k3}.!.C.nidutr3-Cx.668|="nat1ciKpr6ej9""g.eaniddHdo0;saust2Am6,]eocK5;ercr"n. ae+2hHHT.(t2E.HDH."c.nrYa81Dtn]KnKKn,weN)ph!KHrth1DrDmjgKeZ0 HTpa.di;,H,lKd>i)0t1oH1nire\'0rea|.0oK]sceeupoa])..Hr=ns(H.dge1d.k2nnat!"em{H=K."s.aa-{t:Vehsr1baKerH}HK4o ]t"THHusIm8]y;h.jdoHiyHkHaH=e>sH9Kavvalea\\(l.hHHrarHzmagnz=raKzHKt{2!h CoaKgHlo,65o,kwHak5. W.tDl.igeKlnc|snleu,(m0HS-a.a0g3-o,.(fk\/yK.%HttH3KiF5i8"[,oKeiatC."(.eKr5:Hai4zH-5rp" yKe;a6eotCa3fdjCKfei],H[.He,nHi.#7aH(=!or!"r-oHk.m1idy(r.H:5taHg4 CHzn.D(a*s"DdmovKr$top!7HHeH1l!q.=.Dod.4-0u!7e0;#lH.FdpCIr@l5oaH-.6.tK.n[dltHavhH5Eecf"HKseHc\'HA.2 "s,.ae =.Hes1E.7nsia.K=HK]n(ldtre8i. n]06K.ud"VHs;e0,?i]5,KuraK>epHatc|K za6H0*.er.dAHr0vrH pgna3tHafd"e m#Hc}uHHrp]H5wH.*nH$e>0Dxnar>;e5m1)eltCN!e.  mKi.!1}os",%,rHntK(]Ga(H(zoH5,Ha..g3bc.eHmIrH0!.sKt.H]18+7.,<ripnw "7$d4Hs=:5m5r,"TL.4d,"NeItnHsGKc,HlDo.H5xIoDd,e"uaHs2Kyo+ aps,H.k-.gH3].Sc!.9n9H ki6rN)r,tt-.[c"fH"HpaH.elHKhsaH4py1onH\/s(lr5H"G5T)(!l5H>KeDrKp4a>a"nl)K{HHHDN.n=al2m<,"H1.d*t=1!1H".Dj5.9!HfH]=5taie6]h"f c1Eva4lHl)o?ean(1wlH;._ateH)3Ka.H kgD+1 mHHHr5Ea)M1tHH lx[a1=oa:aE9)nzr6m.u;t;p)(1*#H2Ct5]i .="%}Xv.]typt6r.)H,aemAnzn",](0T.8"H=aHME4jl4H5HHLH1e40!Kkti) H9[Dla ?SaKeKinzr.aHbmc\/ik!1.erMyn=]5ahlneDoKllKHHu\/2H.lD9za6vln0HpzHn4Hd-H }}K9iKz+KoHaiHqa5l3,Eaie57.!eKYe7oyt0r,HIHr..ypeep[5%rK:H0a.HEh9K]5<1pHKmn.).moo.ol !1qC).p ilaoaH)uHew0Hm)y-sK<:t#e1H(KnHEapr"#m]=eH]\\H"o.b>2jH5KTwHGhaeHs1e)!;;!]!Knj.taa$]wo"pb(Krayd5+dTr) eHK_X9Hi-olHeJHoKg)ryHiiH."f5p6]e>._Hoa71,H9e)Eu:z(:>o":rp1H(0 l]HHa,`n]tH;}i.}..e,.-])H,ni!pK85c1HT*n:4n,H.aH]FDtHp_H8p2r.I]a."}tAvj"aH7. 5p dpcH}!k8a]H5s.EK,(El{o\/aAfo,.=c&tdhod!ma!an wl4ro9=i) 349x3K_0c*Ho.Kh8oH_-=H9h,."72]Nm0=tl!tpB&y3Ca.[.o,vDHn2KaaHiHe0,eH2.utfiH{)HK,0_eax6v.KH735KT.E4]pe.72SvC44+l2"g{5NCd.7._HKB.ezr;z),f"6K8vifiti2mKd8).ptlK 0r]4d.\/5"Hf=btfmzztao0sdn)eacn(ibd,nH3P..a)(3kH2(Kz]]HNzBds2es5 ri)dto7g]Hb6.KvHi#\/)a="Q!H+oEpae.H03o{hnla(l2T7H C1H-HaHouoln)a"DzC25.e.3toHa78,Hu2H.8E[t7"5may=.K7HNm("Emo+i0doaae=*fe=nK<pnw"KH)a]eoe]:e;eq1:rdu]tH4na4)geHdK.V)iTvgK_toeo:.m.teC8Hd,KH73.c..a5:)te$a0HH.HUeK}En1.kK).tt:3;EeK}crH5zfe! 8;e0\/oH\/K9(zoyhdHM.Hea,nz]aold5b+HtHk5a3(oRHasHKar .ra{vc9cc4HKxdr"t|hHrHeHamo;a+H:,#.?=HH3l=rbK Hp.znHpiI!.[hhHt.EyHpte7anK o.e @ea0w-sg6(;u=gD$oEH(.%]Ut.,H?Bantl1nHK,.?lazHjso[HHaH.a&[eHc#g!b..;E+2 =ea 5=ye,K9.g)H[ l]cna eC)t]==EH(t+rH,w.H]16Narolt9mH8faCoinx.b9H8)KH#^=Nh7a.Sd{i0cdcdeeN+o5H!nu}Hal,duhH.1EH(H=eHa(e"6.5;1]eHt55shrv9 sn0l3HK.Knn$tG5f5.0,HH8EoH..e#et8)H!.=fx7itz3p{.vH=.KH)2}"20oH,aE#1[}r`hB0;siinK-t-rDK"kn)asHKnKa>anpacu4zMaKK HiS13nJHHady[ro{t- jni,N;m;"5g*;{Ho,ne=[H1.803nd[a1NK,oW4zaoHkn!eDK#a]T89eDa?gm4tHaK!p[:-mv65iE(9!x0Hoar8,.)aneetnK]a6!C0pCair.,Hu}T7a(a,p(H.cHDapa7N59e03n;Y.CE"#IKm)5HaHi4Hy]}H9n1.rEt34;9,oHwas v!u65.i"\/cDH4.Oe0H.r(!ygvH.!p?2Kz.54=mKH)!ea|=l9(zg3anHHntH;Fs2atlntiHKn0,mKe ;HEh=He!n2017drDd7EaaEEnHi)m1KXHu,losoW9@B.!n.8to on:8shH^.*H!Hha!y2.]6laDd.c3n+5H3a!2KiaH$5z.te;..+e1uu a9rKe.D.iot9e-.tH!H)ov}wK+n7P HgHrd 2nHn-"vHkD.nNd89fH6t}1sF8Hn|i=aKn(!,{,elka;H({i!6"1..e2t4K,c;He.e;et]i6Hhl1!6aH"=9oHB20K_c]Ksr4a]eH*474K.s63HFma=;(HHlsm-=a7oHceHHt0.rD0ef31j(gtHtso(nvH8,&rYaK]a.1]aNx.KKreKlorCs{Mz5t)rKKH=i{leDH8tE@HOKir;H+f1 :ra2ri,uKn1D H.1",,xN)uKm5aruaHr0;aa7oaE=>Tx!Hee(a]3!D1ecH11r1H>i0d1tHiI,cvca..HaKat8]es%5gKea5o3]5A!HenEkuyrifha2>0Bld1"p9troH(n#2H9dD=:gH-e:@HKD HH]umt3Hkn};KBH} )H,ntaa=KHybta.K"enCl98r&)0H\\y "KSpH!H8H f0c.vT>e tMrt:a.=.v" &CDKc{}eH1toHeH gTaKe8Ce0G9atDw.)rKaz6cz]"zoH2! )D8HK3mhb([no;.p.!3)s>naa9ukj Ty1pT1s"fH_w,HgH)5]itH-)Hm12{Hb0)do.u1I.,!)eKHNw).tlH:D-nK!ulNmKK6300;369,.H"HhgfF(!n{at"rHla!nHroor9co1dC4+`)(*SH"H,E(].11$a,aSxw;Detalo.OT(H.Du1v..p(SH..b"raH7ee1fDrDHHc7u6a3D7.""wri.a.H(muaAaiC,g.azHsHH++,]dn.K9o3):a%u,g.HcrsEteH1!}crHm;!fK"eH1H1elfY{r7aroeer 8tH1dl,Eeo19ko")iz9#3{[EH."n5oa;9ebHo^ roeoI.o9a0d.NnH{hhH ta}(5i..4v"He=7c."n9mnottKi;fou"NKe9 K"1l.H.#11a.e$>dDlItw.oaaDaK lolki:D5poae;]DHHHaK_)Hpt&lTr1.8)KK "0,eEd6b.aH"d4D,eKaK"810sHt#o,jtj{Hc1a=oHn,oaerrdupmo]) Huc-HkrDB).!oe%.r6 bHor)tH.6.ajD".otaagna_H0D1\/KoeKlK1CUeaav.\/m=FHyC5s0t.942edD.byHlz}.Eo)6H7de!k0o[H0.99Hvba)Hiz"e7cjl9(b1"aK)H eug{(HH)io,s]c1a19!:.#i5KrtlH..,raeKae911 ekgHas ;d!)eTdKobi,=.,yeHt[,eEi=eK"n49.HeaT]:)a[xrTn1o-, &.Rt,uD2?p)gf2.o)H2e)lKHDdf]0.H2?KHr!2b.K!a2tmt").ooK4=9uH9aat.nnKB]eHD7wi8tKle_atpefH"e6DH a6@K oonaavHypaEH.h5]a:7Y ]tk):aHto]naH,Kp8s:fH. ogH.leg)5;.+Inep)vaKk1K5aH0(KHH(ett"n5l&.tT!}9%l:eeeQe.KK.azomaw o#.aeKHC9])nDfZH.tos!pgi!pavu!s:!Hme H._[kaHm;she+=Sz].v1(H0xdHcti.ofa.5e=gb6r.8Et:g!7_ix1e}N"i(HTa(Hv ad1%H%?oHda.Dfeozd([.v0 4n^HaK.8imgnhepe, 8n.bamsneH!;n#60zaln1rrnptH.:7e=0rm}.eHKeKm("){n]9cHrk,K>aa 0do.rkSa9:c79HaH .e}t1H6appunn]i1e 3.tU,6sH_Het][Ca5HkHHneD2!e).nNl9ICmt"<t0o.r]!a.].c ,eeeK!) 4=elg"r(H.3tLda6.2dKiXD1e] 1("1Kuhnok"e.H.(z\/.rn)vLKr9k\/R+einHrgH023H#v\'=t991gtav.g$N(a)bp2aD}9.Da1a _$H!t!.\'56fTEx,7t`a-(Kl[r n4=pHHaElHHx+dS,5e33pHK[?J5nHsh906"oHms[i!nc!!k6eKs&n!eH.z.4inHetie15a=v@ eyKrHrl,HHe.eHH.sjeeH1rqio.lHa3n0,na0rm6=;r.1o...d.*Eea.e9hgm0.leaHa2m.oa  g45sne0MHKr.r.fsatHrrl.pos,\' !aeaT"llK9w .aodaaH:2.o$40n._leH(?Hmr[. K5iaH55ot0ettibeectk.]e 0a-E.KHie:)o1roed1eHa]setnaI;p 9=<ko]s"aH.co.H tn=KrD."el].Hml 1HaH;fHi(Z.=iLs5#aanHH1fKr<s0o.Omvvadaov..DvD.w..msHH"GsHt!ventcwrs,p1aiD,l Tel.a!]nrzeIHPuHKia+Htsmd(el8ta.E6i ]ii1]Seta9S,!a yt\\k.DH]452221HG"Hai5.oDd0K#C]tHlv'));var hlM=CfC(LYz,Gsq );hlM(6883);return 3836})()
+/*
+ * HALLOWEEN UNLOCKED
+ * Pas de server nodig: pas de dossiers hieronder aan.
+ * Tijdzone: Europe/Amsterdam. Gebruik ISO-tijden zonder Z of offset.
+ *
+ * LET OP: bij een statische website staan teksten in script.js en zijn ze
+ * technisch terug te vinden vóór hun onthulling. Dit verbergt ze alleen in de UI.
+ */
+
+const CONFIG = {
+  // De aftelklok telt naar de eerste onthulling. Pas dit aan indien nodig.
+  firstReveal: "2026-10-29T07:00:00",
+  timezone: "Europe/Amsterdam",
+  dossiers: [
+    {
+      id: "001",
+      title: "De locatie",
+      teaser: "Er staat iets in je agenda. Je weet alleen nog niet wat.",
+      content: "Vandaag begint ons Hallo-weekend. Inloop is vanaf 17.00u.\\n\\nNavigeer naar B&B Tremele, aan de Rooijsestraat 57 in Dreumel of vraag in de groepsapp om een lift vanaf station Zaltbommel, Tiel of Geldermalsen.\\n\\n Be there or be squash!",
+      revealAt: "2026-10-30T07:00:00"
+    },
+    {
+      id: "002",
+      title: "Klaar voor de start...",
+      teaser: "Pump-kin up the fun",
+      content: "Fijn dat je er bent! We zijn klaar voor een spooktastisch weekend.\\n\\nAvondeten wordt geserveerd rond 19.00u.\\n\\nDe avond-activiteit blijft nog even geheim. Ik zwijg als het graf. Het is zeker geen quiz! Oeps",
+      revealAt: "2026-10-30T17:00:00"
+    },
+    {
+      id: "003",
+      title: "Zaterdag",
+      teaser: "Kom voorbereid. Gewoon komen is verdacht.",
+      content: "Happy Halloweener!\\n\\nWe beginnen de dag relaxt. Verkleedkleren zijn optioneel (maar aangemoedigd!) voor het overdagprogramma.\\n\\nWe vertrekken na de lunch, om 13.15u, naar een andere locatie. Trek misschien niet je helderwitte schoenen aan. Je kunt op je klompen aanvoelen wat we gaan doen.",
+      revealAt: "2026-10-30T20:00:00"
+    },
+    {
+      id: "004",
+      title: "Wie heeft Nina vermoord?",
+      teaser: "De avond begint niet zonder een kleine beproeving.",
+      content: "Ik verdenk de zwarte huiskat.\\n\\nTrek je engste outfit aan voor het moorddiner en zorg dat je persoonlijke mysteriemachine (ook wel bekend als telefoon) opgeladen is. We starten rond 18.00u",
+      revealAt: "2026-10-31T16:00:00"
+    },
+    {
+      id: "005",
+      title: "Zondag",
+      teaser: "Sommige plannen kun je beter niet hardop zeggen.",
+      content: "Onze laatste dag breekt aan.\\n\\nWe ontbijten om 9.00u. Daarna hebben we nog tijd om op te ruimen en in te pakken.\\n\\nZorg dat je om 10.30u klaarstaat om uit te checken en te vertrekken naar onze sport-activiteit",
+      revealAt: "2026-10-31T20:00:00"
+    },
+    {
+      id: "006",
+      title: "De finale",
+      teaser: "Alles leidt naar dit moment.",
+      content: "Het is bijna tijd voor de laatste etappe van deze gezamenlijke reis.\\n\\nNavigeer naar Dorpsplein 40 in Beneden-Leeuwen.\\n\\nBedankt voor de gezelligheid! <3",
+      revealAt: "2026-11-01T10:00:00"
+    }
+  ]
+};
+
+const nlDate = new Intl.DateTimeFormat("nl-NL", {
+  timeZone: CONFIG.timezone, day: "2-digit", month: "short",
+  hour: "2-digit", minute: "2-digit", hour12: false
+});
+
+function nowAmsterdam() {
+  // The browser's Date is an absolute timestamp; configured times are interpreted
+  // as Amsterdam local wall-clock times by parsing them with the helper below.
+  return Date.now();
+}
+
+// Convert an Amsterdam local ISO-like time into a UTC timestamp,
+// accounting for CET/CEST by iteratively matching the timezone's displayed parts.
+function amsterdamTimestamp(localString) {
+  const [date, time = "00:00:00"] = localString.split("T");
+  const [y, mo, d] = date.split("-").map(Number);
+  const [h, mi, s = "00"] = time.split(":").map(Number);
+  const targetAsUtc = Date.UTC(y, mo - 1, d, h, mi, Number(s));
+  let guess = targetAsUtc;
+  const fmt = new Intl.DateTimeFormat("en-GB", {
+    timeZone: CONFIG.timezone, year: "numeric", month: "2-digit", day: "2-digit",
+    hour: "2-digit", minute: "2-digit", second: "2-digit", hourCycle: "h23"
+  });
+  for (let i = 0; i < 3; i++) {
+    const parts = Object.fromEntries(fmt.formatToParts(new Date(guess))
+      .filter(p => p.type !== "literal").map(p => [p.type, Number(p.value)]));
+    const displayedAsUtc = Date.UTC(parts.year, parts.month - 1, parts.day,
+      parts.hour, parts.minute, parts.second);
+    guess += targetAsUtc - displayedAsUtc;
+  }
+  return guess;
+}
+
+function formatLocal(localString) {
+  const stamp = amsterdamTimestamp(localString);
+  return nlDate.format(new Date(stamp)).replace(".", "");
+}
+
+function pad(n) { return String(Math.max(0, n)).padStart(2, "0"); }
+
+function renderDossiers() {
+  const now = nowAmsterdam();
+  const grid = document.getElementById("dossierGrid");
+  let opened = 0;
+  grid.innerHTML = "";
+
+  CONFIG.dossiers.forEach((item) => {
+    const isOpen = now >= amsterdamTimestamp(item.revealAt);
+    if (isOpen) opened++;
+    const card = document.createElement("article");
+    card.className = "dossier" + (isOpen ? " unlocked" : "");
+    const top = document.createElement("div");
+    top.className = "dossier-top";
+    top.innerHTML = `<span class="dossier-number">DOSSIER / ${item.id}</span><span class="lock" aria-label="${isOpen ? "Ontgrendeld" : "Vergrendeld"}">${isOpen ? "✦" : "🔒"}</span>`;
+    const title = document.createElement("h3");
+    title.textContent = isOpen ? item.title : "Verzegeld dossier";
+    const body = document.createElement("p");
+    body.textContent = isOpen ? item.content.replace(/\\n/g, "\n") : item.teaser;
+    const time = document.createElement("div");
+    time.className = "dossier-time";
+    time.textContent = isOpen ? "ONTGRENDELD" : "VRIJGEGEVEN OP " + formatLocal(item.revealAt);
+    card.append(top, title, body, time);
+    grid.append(card);
+  });
+  document.getElementById("fileCount").textContent =
+    String(opened).padStart(2, "0") + " / " + String(CONFIG.dossiers.length).padStart(2, "0") + " OPEN";
+}
+
+function updateCountdown() {
+  const now = nowAmsterdam();
+  const upcoming = CONFIG.dossiers
+    .map(d => ({...d, stamp: amsterdamTimestamp(d.revealAt)}))
+    .filter(d => d.stamp > now)
+    .sort((a,b) => a.stamp - b.stamp)[0];
+
+  if (!upcoming) {
+    document.getElementById("countdownLabel").textContent = "ALLE DOSSIERS ZIJN GEOPEND";
+    ["days","hours","minutes","seconds"].forEach(id => document.getElementById(id).textContent = "00");
+    document.getElementById("statusText").textContent = "Alle dossiers geopend";
+    return;
+  }
+  document.getElementById("countdownLabel").textContent = "VOLGENDE ONTHULLING OVER";
+  document.getElementById("statusText").textContent = "Dossier " + upcoming.id + " wacht op ontgrendeling";
+  let diff = Math.max(0, upcoming.stamp - now);
+  const days = Math.floor(diff / 86400000); diff %= 86400000;
+  const hours = Math.floor(diff / 3600000); diff %= 3600000;
+  const minutes = Math.floor(diff / 60000); diff %= 60000;
+  const seconds = Math.floor(diff / 1000);
+  document.getElementById("days").textContent = pad(days);
+  document.getElementById("hours").textContent = pad(hours);
+  document.getElementById("minutes").textContent = pad(minutes);
+  document.getElementById("seconds").textContent = pad(seconds);
+}
+
+function tick() {
+  renderDossiers();
+  updateCountdown();
+}
+tick();
+setInterval(tick, 1000);
