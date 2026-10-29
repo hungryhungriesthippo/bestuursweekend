@@ -9,7 +9,7 @@
 
 const CONFIG = {
   // De aftelklok telt naar de eerste onthulling. Pas dit aan indien nodig.
-  firstReveal: "2026-10-29T07:00:00",
+  firstReveal: "2026-10-30T07:00:00",
   timezone: "Europe/Amsterdam",
   dossiers: [
     {
@@ -17,7 +17,7 @@ const CONFIG = {
       title: "De locatie",
       teaser: "Er staat iets in je agenda. Je weet alleen nog niet wat.",
       content: "Vandaag begint ons Hallo-weekend. Inloop is vanaf 17.00u.\\n\\nNavigeer naar B&B Tremele, aan de Rooijsestraat 57 in Dreumel of vraag in de groepsapp om een lift vanaf station Zaltbommel, Tiel of Geldermalsen.\\n\\n Be there or be squash!",
-      revealAt: "2026-10-30T07:00:00"
+      revealAt: "2026-10-29T07:00:00"
     },
     {
       id: "002",
